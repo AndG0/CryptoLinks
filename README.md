@@ -15,7 +15,7 @@
  - https://www.kraken.com/
 
 
-###Tools
+### Tools
 
  - https://bitcointalk.org/ - Forum about all crypto currencies  
  - https://coinmarketcap.com/ - Rates
